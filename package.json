@@ -1,0 +1,19 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "A simple NFT marketplace contract built with Hardhat, Solidity",
+  "keywords": [
+    "hardhat",
+    "ethereum",
+    "nft",
+    "marketplace",
+    "solidity"
+  ],
+  "author": "0xAliya",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "hardhat": "^2.21.0",
+    "viem": "^2.7.22"
+  }
+}
