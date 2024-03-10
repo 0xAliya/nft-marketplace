@@ -1,0 +1,8 @@
+{
+  "solidity.packageDefaultDependenciesDirectory": ["node_modules", "lib"],
+  "solidity.compileUsingRemoteVersion": "v0.8.131",
+  "solidity.remappings": [
+    "forge-std/=lib/forge-std/src/",
+    "@openzeppelin/contracts-upgradeable/=node_modules/@openzeppelin/contracts-upgradeable/",
+  ]
+}
